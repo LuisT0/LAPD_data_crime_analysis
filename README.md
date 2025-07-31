@@ -22,8 +22,8 @@ This project is hypothetical help to Los Angeles Police Department (LAPD) by ana
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git
-   cd NOMBRE_DEL_REPO
+   git clone https://github.com/YOUR_USER/REPO_NAME.git
+   cd REPO_NAME
    ```
 2. Create a virtual environment and install dependencies:
    ```bash
